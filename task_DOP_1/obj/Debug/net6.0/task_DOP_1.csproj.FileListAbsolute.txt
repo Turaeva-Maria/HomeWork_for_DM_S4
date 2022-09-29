@@ -1,0 +1,15 @@
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.csproj.AssemblyReference.cache
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.AssemblyInfoInputs.cache
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.AssemblyInfo.cs
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.csproj.CoreCompileInputs.cache
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\bin\Debug\net6.0\task_DOP_1.exe
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\bin\Debug\net6.0\task_DOP_1.deps.json
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\bin\Debug\net6.0\task_DOP_1.runtimeconfig.json
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\bin\Debug\net6.0\task_DOP_1.dll
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\bin\Debug\net6.0\task_DOP_1.pdb
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.dll
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\refint\task_DOP_1.dll
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.pdb
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\task_DOP_1.genruntimeconfig.cache
+C:\Users\turae\OneDrive\Рабочий стол\SEMINAR_4\task_DOP_1\obj\Debug\net6.0\ref\task_DOP_1.dll
