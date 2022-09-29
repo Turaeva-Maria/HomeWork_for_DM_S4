@@ -7,9 +7,10 @@ void OneArray(int[] array)
  {
      int length = array.Length;
      int i = 0;
+     Console.WriteLine("Введите 8 элементов массива (ячейки от [0] до [7]):");
      while (i < length)
      {
-         Console.WriteLine($"Введите элемент массива [{i}]:");
+         Console.Write($"[{i}]:");
          int n = Convert.ToInt32(Console.ReadLine());
          array[i] = n;
          i++;
